@@ -2,6 +2,8 @@
 
 This project analyzes social media data to detect trends and patterns in mental health discussions, specifically focusing on anxiety.
 
+*Developed by Alesse Nunes*
+
 ## Project Structure
 - `data/` - Datasets and data processing scripts
 - `notebooks/` - Jupyter notebooks for data analysis
