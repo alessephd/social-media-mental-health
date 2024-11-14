@@ -1,1 +1,5 @@
+sentiment, count
+positive, 150
+neutral, 100
+negative, 50
 
