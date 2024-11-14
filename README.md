@@ -1,4 +1,5 @@
-# social-media-mental-health
+# Social Media Usage and Mental Health Analysis - REPORT
+
 This project analyzes social media data to detect trends and patterns in mental health discussions, specifically focusing on anxiety.
 
 ## Project Structure
@@ -12,7 +13,6 @@ This project analyzes social media data to detect trends and patterns in mental 
 - List any necessary Python packages
 - Add instructions for setting up the environment
 
-# Social Media Usage and Mental Health Analysis
 
 ## Summary
 
